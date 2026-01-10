@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Muhammad Nazirul
+------------------------------------
 
-<!--
-**KekBatikMatcha/KekBatikMatcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Science (Network Engineering) Student
+- Full-Stack Web & System Developer
+- Malaysia
 
-Here are some ideas to get you started:
+I design and develop database-driven systems, focusing on process automation, role-based access control, and scalable web architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------------------------------------------------------
+
+Public Projects & Ideas Repository
+-------------------------------------------------------------------------
+
+This GitHub account serves as my public workspace where I openly publish:
+
+- Completed and ongoing IT projects
+
+- System ideas, concepts, and architectural designs
+
+- Prototypes and experimental implementations
+
+All repositories are shared for public use, learning, reference, and knowledge sharing. Some repositories may represent early-stage ideas or proofs of concept, published intentionally to document thinking processes and encourage further exploration.
+
+-------------------------------------------------------------------------
+
+Click This Link
+--------------------------------
+
+~ *Ideas shared here may evolve into full systems, research projects, or production-ready applications over time.* ~
